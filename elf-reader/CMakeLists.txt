@@ -1,0 +1,1 @@
+add_executable(elf-reader main.cc)

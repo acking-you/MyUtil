@@ -1,0 +1,1 @@
+add_executable(test_aspect test_aspect.cc)

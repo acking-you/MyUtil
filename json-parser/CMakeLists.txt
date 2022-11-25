@@ -1,0 +1,1 @@
+add_executable(Json main.cpp JObject.cpp Parser.cpp)

@@ -1,0 +1,17 @@
+cmake-build-debug
+cmake-build-release
+cmake-build-clang
+cmake-build-clang-debug
+cmake-build-clang-release
+cmake-build-mingw-debug
+cmake-build-mingw-release
+cmake-build-msvc-debug
+cmake-build-msvc-release
+
+.vs
+CMakePresets.json
+out
+build
+release
+.idea
+.vscode

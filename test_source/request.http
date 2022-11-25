@@ -1,0 +1,8 @@
+POST jkbd/exam?city=hengyang&category=1 HTTP/1.1
+Accept:image/jpeg, application/x-ms-application
+Accept-Encoding:gzip, deflate, br
+Connection:keep-alive
+Host:106.52.6.222:8000
+User-Agent:apifox/1.0.0 (https://www.apifox.cn)
+
+fdasjlfsadjlfjaslfsa
